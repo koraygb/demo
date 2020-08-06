@@ -1,1 +1,5 @@
 this is the file for new branch
+
+modifs in the MASTER branch
+
+modifs in the CONFLICT branch
